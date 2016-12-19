@@ -1,5 +1,7 @@
 # [Azure Container Registry] (https://azure.microsoft.com/en-us/services/container-registry/) - 12/14/2016
 
+* Offers a special Azure resource made to hold container images for use on Azure and Azure Container Service
+
 What is a container registry? <br>
 * You made a bunch of sweet containers, you need somewhere to put these beautiful things! Put them inside the registry, a shipping vessel for your containers.
 * This is another resource in your Resource Group backed by an Azure storage account
