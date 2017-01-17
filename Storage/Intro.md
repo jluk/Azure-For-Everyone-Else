@@ -23,7 +23,3 @@ Accounts? <br>
 
 How much does it cost? <br>
 * [Base storage costs] (https://docs.microsoft.com/en-us/azure/storage/storage-blob-storage-tiers#pricing-and-billing)
-
-## Cool Resources
-[ACR Docs] (https://docs.microsoft.com/en-us/azure/container-registry/) <br>
-[Former Engineer Explaining ACR] (https://ahmetalpbalkan.com/blog/azure-container-registry/)
