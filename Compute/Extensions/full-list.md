@@ -1,5 +1,8 @@
 # Azure VM Extension List - 01/17/2017
 
+Reference this site which has a running script updating the list:
+http://armtg.azurewebsites.net/extension_list.html
+
 ```
 //az command
 juluk@justins-mbp-2:~$ az vm extension image list
