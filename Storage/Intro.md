@@ -9,9 +9,16 @@ What is Azure storage? <br>
 
 Services? <br>
 * Blob Storage: stores unstructured object data - binaries, documents, media - (container)
+  * Every blob is orgnanized into a container w/ individual security policies for groups of objects
+  * A single storage account can have any number of containers --> each container can have any number of blobs 
+    * 500 TB limit of a single storage account
+  * Optimized for streaming/storing documents/media/files/backups
 * Table Storage: stores structured datasets - databases - (entities)
 * Queue Storage: provides reliable messaging for communications between components of services (messages)
 * File Storage: stores legacy applications using SMB protocol (share)
+  * Can mount a file share in the cloud just like desktop mounts an SMB share
+  * Applications access via file system I/O APIs
+  * 
 
 Accounts? <br>
 * General-purpose: Access to Tables, Queues, Files, and Blobs under a single account 

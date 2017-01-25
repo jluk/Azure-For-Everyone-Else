@@ -2,7 +2,7 @@
 
 ## Features
 The Azure Cloud Console was built with the pains a developer goes through on a daily basis. The Azure platform has evolved over the years and we sincerely hope the next evolution makes developing on Azure easier, friendlier, and more enjoyable.
-To achieve this we now offer a console and storage to every Azure user for free. By doing this we allow:
+To achieve this we now offer a console and a predetermind amount of storage to every Azure user for free. By doing this we allow:
 * CLI access anywhere with browser access
 * Persistent storage
 * Automatic authentication
