@@ -33,8 +33,10 @@ The command below will deploy your cluster and generate a key on your behalf to 
 
 #### Scale out 
 This will allocate 4 more agents into your cluster chosen by -n
+
 `az acs scale -g myrg -n myacs --new-agent-count 4`
 
 #### Delete
 Deleting compute resources such as ACS in Azure will not remove associated storage and networking resources. As a result you should deploy a new RG per set of resources, so when you are done you can delete the entire RG to clean-up any associated resources.
+
 `az acs delete -g myrg -n myacs`
