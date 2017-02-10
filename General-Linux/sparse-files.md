@@ -1,5 +1,5 @@
 # Sparse Files
-A sparse file is a type of copmuter file that tries to use file system space more efficiently when blocks allocated to the file are mostly empty.
+A sparse file is a type of computer file that tries to use file system space more efficiently when blocks allocated to the file are mostly empty.
 Sparse files are often used for disk images, db snapshots, and log files.
 
 ## How
